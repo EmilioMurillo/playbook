@@ -42,3 +42,4 @@ Process for contributing to projects.
 5. Relax
 6. Muigai or Leon will approve your pull request in time
 7. Assign yourself another issue and move it into the working column - repeat above!
+

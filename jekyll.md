@@ -25,3 +25,6 @@ Environment for developing jekyll projects locally.
 5.  cd into new folder ```cd <sitename>```
 6.  Start the jekyll server ```jekyll serve --host 0.0.0.0```
 7.  Visit Site in Browser ```localhost:4000```
+
+##Forestry Notes
+1. When connecting your forestry to the github pages, make sure you only pushed the 	project file changes to the repo. (Forestry is not good at going into folders)
